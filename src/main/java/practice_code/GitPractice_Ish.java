@@ -6,6 +6,7 @@ public class GitPractice_Ish {
 	
 	public void myGitTest() {
 		System.out.println("Testing Git");
+		System.out.println("New line addedd");
 	}
 	
 	
